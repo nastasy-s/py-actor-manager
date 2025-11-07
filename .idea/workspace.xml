@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee02dd8f-e91b-41e7-be78-4acd808623a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/actor-maneger.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py-actor-manager/app/managers.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-actor-manager/app/managers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py-actor-manager/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/py-actor-manager/app/models.py" afterDir="false" />
     </list>
@@ -65,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762532259361</updated>
-      <workItem from="1762532260431" duration="5242000" />
+      <workItem from="1762532260431" duration="5910000" />
     </task>
     <servers />
   </component>
